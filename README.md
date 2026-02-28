@@ -1,147 +1,126 @@
-<h1 align="center">Hi 👋, I'm Suhash V</h1>
-<h3 align="center">🚀 CSE Student | IoT Enthusiast | Full Stack Developer</h3>
+# SUHASH V
 
-<p align="center">
-  <a href="https://suhashv.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"></a>
-  <a href="mailto:suhashvelu03@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://github.com/suhashvelu"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/suhash-velusamy"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-</p>
+📞 +91 9361697991  
+📧 suhashvelu03@gmail.com  
+
+🔗 Portfolio: https://suhashv.netlify.app  
+🔗 GitHub: https://github.com/suhashvelu  
+🔗 LeetCode: https://leetcode.com/u/suhashvelusamy  
+🔗 LinkedIn: https://linkedin.com/in/suhash-velusamy  
 
 ---
 
 ## 🎯 Career Objective
-💡 A motivated and detail-oriented professional with strong problem-solving skills and commitment to excellence. Passionate about building impactful solutions and working in collaborative environments.
+
+A motivated, detail-oriented professional with strong problem-solving skills and commitment to excellence. Passionate about contributing in collaborative environments and driving successful outcomes.
 
 ---
 
 ## 🎓 Education
 
-📍 **Kongu Engineering College, Erode**  
-🎓 B.E. Computer Science and Engineering  
-📊 CGPA: **8.07**  
+**Kongu Engineering College, Erode**  
+B.E. Computer Science and Engineering | CGPA: 8.07  
 📅 2023 – 2027  
 
-📍 **Kongu Vellalar Matric Hr. Sec. School, Erode**  
-📊 Percentage: **89.83%**  
+**Kongu Vellalar Mat. Hr. Sec. School, Erode**  
+Higher Secondary Education | Percentage: 89.83%  
 📅 2022 – 2023  
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Skills
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,vscode" />
-
-</p>
+- **Languages:** C, Java, Python, HTML, CSS, JavaScript  
+- **Frameworks:** ReactJS, ExpressJS, NodeJS  
+- **Deployment:** Netlify, Vercel, Render  
+- **Developer Tools:** VS Code, Git, Power BI  
+- **Databases:** MongoDB, MySQL  
 
 ---
 
 ## 🧠 Soft Skills
 
-✨ Leadership  
-✨ Adaptability  
-✨ Problem Solving  
-✨ Time Management  
-✨ Team Collaboration  
+- Leadership  
+- Adaptability  
+- Problem Solving  
+- Time Management  
+- Team Collaboration  
 
 ---
 
 ## 🎯 Areas of Interest
 
-📌 Database Management Systems  
-📌 Internet of Things  
-📌 Data Science  
-📌 Power BI  
+- Database Management Systems  
+- Internet of Things  
+- Data Science  
+- Power BI  
 
 ---
 
 ## 🚀 Projects
 
-### 🌍 TourMate
-🛠️ **React.js | Node.js | Express.js | MongoDB | OpenWeather API**  
-📅 Jul – Nov 2025  
+### 🔹 TourMate  
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, OpenWeather API  
+📅 Jul – Nov, 2025  
 
-✨ Travel assistant with maps + weather forecasting  
-✨ Trip planning (hotels, favorites, dates)  
+A React-based travel assistant using OpenStreetMap for place exploration and OpenWeather API for real-time and 7-day forecasts. Includes trip planning features like dates, hotels, and favorites.  
 
-🔗 [Live Demo](https://tour-mate-wazz.vercel.app)
-
----
-
-### 🤝 ShareHub
-🛠️ **HTML | CSS | JavaScript | Node.js | Express.js | MongoDB**  
-📅 Feb – May 2025  
-
-✨ Skill sharing platform with secure login  
-✨ JWT Auth + Bcrypt + Multer  
-
-🔗 [GitHub Repo](https://github.com/suhashvelu/Share_hub)
+🔗 Live Demo: https://tour-mate-wazz.vercel.app  
 
 ---
 
-### 📡 Perisense
-🛠️ **ESP8266 | DHT11 | MQ-135 | GPS | React Native**  
-📅 Apr – Dec 2025  
+### 🔹 ShareHub  
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB  
+📅 Feb – May, 2025  
 
-✨ IoT monitoring system for perishable goods  
-✨ Live tracking + alerts + dashboard  
+Web application for posting and sharing skills with secure authentication. Implements JWT authentication, bcrypt for password security, and file uploads using Multer.  
 
-🔗 [GitHub Repo](https://github.com/suhashvelu/Perisense_Niral)
+🔗 GitHub: https://github.com/suhashvelu/Share_hub  
+
+---
+
+### 🔹 Perisense  
+**Tech Stack:** ESP8266, Sensors (DHT11, MQ-135, GPS), React Native  
+📅 Apr – Dec, 2025  
+
+IoT-based solution to monitor temperature and humidity of perishable goods during storage and transport. Includes a React Native app for live tracking, alerts, and dashboards to improve supply chain efficiency.  
+
+🔗 GitHub: https://github.com/suhashvelu/Perisense_Niral  
 
 ---
 
 ## 💼 Internships
 
-### 🧠 Generative AI Intern  
-🏢 SystemaNX & Generative AI Consortium  
+### 🔹 SystemaNX & Generative AI Consortium — Generative AI Intern  
 📅 Nov 2024 – Apr 2025  
 
-✔️ Built price forecasting model using Linear Regression  
-✔️ Data cleaning & visualization  
-✔️ Performance evaluation  
+- Built a price forecasting system using Linear Regression  
+- Cleaned and prepared datasets  
+- Evaluated model performance and presented insights through visualizations  
 
 ---
 
-### 📦 Product Intern  
-🏢 OreOps Framework Pvt Ltd  
-📅 Jul 2023  
+### 🔹 OreOps Framework Pvt Ltd — Product Intern  
+📅 Jul 2023 – Jul 2023  
 
-✔️ Competitor analysis  
-✔️ Feature gap identification  
-✔️ Product improvement support  
+- Conducted competitor analysis to identify feature gaps  
+- Supported product improvements aligned with market trends and user needs  
 
 ---
 
 ## 📜 Certifications
 
-🏅 Azure AI Engineer Associate — Microsoft (Mar 2025)  
-🏅 Oracle APEX Cloud Developer — Oracle (May 2025)  
+- Microsoft Certified: Azure AI Engineer Associate (Mar 2025)  
+- Oracle Certified: Oracle APEX Cloud Developer (May 2025)  
 
 ---
 
 ## 🏆 Achievements
 
-🥇 Top 10 — *Perisense*, Naan Mudhalvan Scheme  
-🏅 Finalist — LEACS MSME Hackathon 5.0  
-🌍 National Hackathon Participant — iTech Hackfest 2025  
-🥇 Winner — Algo Battle Coding Competition  
-🏆 Project Expo Winner — Smart CO Monitoring System  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhashvelu&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhashvelu&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Quote
-
-> "Consistency + Hard Work = Success 🚀"
+- 🥇 Top 10 Project — *Perisense Niral Thiruvizha*, Naan Mudhalvan Scheme, Tamil Nadu (Nov 2025)  
+- 🏅 Finalist — *LEACS Disaster Emergency Auto-Connect System*, MSME Hackathon 5.0 (Jul 2025)  
+- 🌍 National-Level Hackathon Participant — iTech Hackfest 2025 (Feb 2025)  
+- 🥇 Prize Winner — Algo Battle Coding Competition, Kongu Engineering College (Apr 2025)  
+- 🏆 Project Expo Winner — Smart CO Monitoring System, RUBY DAY (Jan 2025)  
 
 ---
