@@ -1,91 +1,126 @@
-# **SUHASH V**
-**Software Developer**
+# SUHASH V
 
-📞 +91 9361 697991  
+📞 +91 9361697991  
 📧 suhashvelu03@gmail.com  
-🔗 https://www.linkedin.com/in/suhash-velusamy  
+
+🔗 Portfolio: https://suhashv.netlify.app  
+🔗 GitHub: https://github.com/suhashvelu  
+🔗 LeetCode: https://leetcode.com/u/suhashvelusamy  
+🔗 LinkedIn: https://linkedin.com/in/suhash-velusamy  
 
 ---
 
-## 🎯 Objective
-As a dedicated and highly motivated professional, I am continuously seeking to enhance my skills and contribute effectively in a dynamic, collaborative environment. I pride myself on my attention to detail, strong problem-solving abilities, and commitment to excellence. I am passionate about leveraging my strengths to drive success and achieve outstanding results.
+## 🎯 Career Objective
+
+A motivated, detail-oriented professional with strong problem-solving skills and commitment to excellence. Passionate about contributing in collaborative environments and driving successful outcomes.
 
 ---
 
 ## 🎓 Education
+
 **Kongu Engineering College, Erode**  
-_B.E. Computer Science and Engineering_  
-2023 – 2027 | **CGPA:** 8.07 (till 5th Semester)
+B.E. Computer Science and Engineering | CGPA: 8.07  
+📅 2023 – 2027  
 
-**Kongu Vellalar Matriculation Hr. Sec. School, Erode**  
-_Higher Secondary Education_  
-May 2023 | **Percentage:** 89.83%
-
----
-
-## 🛠 Technical Skills
-- **Programming Languages:** C, Java, Python  
-- **Full Stack:** MERN Stack  
-- **Others:** JWT, Bcrypt, Multer, REST APIs
+**Kongu Vellalar Mat. Hr. Sec. School, Erode**  
+Higher Secondary Education | Percentage: 89.83%  
+📅 2022 – 2023  
 
 ---
 
-## 🤝 Soft Skills
+## 💻 Technical Skills
+
+- **Languages:** C, Java, Python, HTML, CSS, JavaScript  
+- **Frameworks:** ReactJS, ExpressJS, NodeJS  
+- **Deployment:** Netlify, Vercel, Render  
+- **Developer Tools:** VS Code, Git, Power BI  
+- **Databases:** MongoDB, MySQL  
+
+---
+
+## 🧠 Soft Skills
+
 - Leadership  
-- Time Management  
 - Adaptability  
 - Problem Solving  
+- Time Management  
+- Team Collaboration  
 
 ---
 
-## 📌 Areas of Interest
-- Data Science  
+## 🎯 Areas of Interest
+
 - Database Management Systems  
-- Internet of Things (IoT)  
+- Internet of Things  
+- Data Science  
 - Power BI  
 
 ---
 
 ## 🚀 Projects
 
-### **TourMate – Smart Travel Assistance System**
-A React-based travel assistant with place exploration using OpenStreetMap and live + 7-day weather forecasting using OpenWeather API. Includes trip planning features like hotels, dates, and favourite locations.  
-**Tech Stack:** React, Node.js, Express.js, MongoDB, OpenWeather API  
-🔗 Live Demo: https://tour-mate-wazz.vercel.app/
+### 🔹 TourMate  
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, OpenWeather API  
+📅 Jul – Nov, 2025  
+
+A React-based travel assistant using OpenStreetMap for place exploration and OpenWeather API for real-time and 7-day forecasts. Includes trip planning features like dates, hotels, and favorites.  
+
+🔗 Live Demo: https://tour-mate-wazz.vercel.app  
 
 ---
 
-### **Skill Sharing Platform**
-A web application for posting and sharing skills with secure authentication.  
-Implements JWT authentication, bcrypt for password security, and Multer for file uploads.  
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, JWT, Bcrypt, Multer  
-🔗 GitHub: https://github.com/suhashvelu/SkillShare_hub.git
+### 🔹 ShareHub  
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB  
+📅 Feb – May, 2025  
+
+Web application for posting and sharing skills with secure authentication. Implements JWT authentication, bcrypt for password security, and file uploads using Multer.  
+
+🔗 GitHub: https://github.com/suhashvelu/Share_hub  
 
 ---
 
-### **Perishable Goods Monitoring System**
-IoT-enabled system to monitor temperature and humidity of perishable goods during storage and transport. Includes a **React Native mobile app** for real-time monitoring, alerts, and dashboards to improve supply chain efficiency.  
-**Tech Stack:** ESP8266, Sensors, React Native  
+### 🔹 Perisense  
+**Tech Stack:** ESP8266, Sensors (DHT11, MQ-135, GPS), React Native  
+📅 Apr – Dec, 2025  
 
----
+IoT-based solution to monitor temperature and humidity of perishable goods during storage and transport. Includes a React Native app for live tracking, alerts, and dashboards to improve supply chain efficiency.  
 
-## 🏆 Achievements
-- Secured a position in the **Top 50 projects across Tamil Nadu** under the **Naan Mudhalvan Scheme** for the project *IoT-based Monitoring of Perishable Goods* (July 2025).  
-- Participated in **iTech Hackfest 2025 – National Level Hackathon (Regional Round)** at Thiagarajar College of Engineering in association with SAP (Apr 2025).
+🔗 GitHub: https://github.com/suhashvelu/Perisense_Niral  
 
 ---
 
 ## 💼 Internships
-- **OreOps Framework (P) Ltd – Internship** (Jul 2024)  
-- **Generative AI Consortium & SystimaNX – AI/ML Internship** (Nov 2024 – Feb 2025)
+
+### 🔹 SystemaNX & Generative AI Consortium — Generative AI Intern  
+📅 Nov 2024 – Apr 2025  
+
+- Built a price forecasting system using Linear Regression  
+- Cleaned and prepared datasets  
+- Evaluated model performance and presented insights through visualizations  
+
+---
+
+### 🔹 OreOps Framework Pvt Ltd — Product Intern  
+📅 Jul 2023 – Jul 2023  
+
+- Conducted competitor analysis to identify feature gaps  
+- Supported product improvements aligned with market trends and user needs  
 
 ---
 
 ## 📜 Certifications
-- **Microsoft Certified: Azure AI Engineer Associate**  
-  _Valid: March 19, 2025 – March 20, 2026_
 
-- **Oracle Certified Professional – Oracle APEX Cloud Developer**  
-  _Date: May 14, 2025_
+- Microsoft Certified: Azure AI Engineer Associate (Mar 2025)  
+- Oracle Certified: Oracle APEX Cloud Developer (May 2025)  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Top 10 Project — *Perisense Niral Thiruvizha*, Naan Mudhalvan Scheme, Tamil Nadu (Nov 2025)  
+- 🏅 Finalist — *LEACS Disaster Emergency Auto-Connect System*, MSME Hackathon 5.0 (Jul 2025)  
+- 🌍 National-Level Hackathon Participant — iTech Hackfest 2025 (Feb 2025)  
+- 🥇 Prize Winner — Algo Battle Coding Competition, Kongu Engineering College (Apr 2025)  
+- 🏆 Project Expo Winner — Smart CO Monitoring System, RUBY DAY (Jan 2025)  
 
 ---
